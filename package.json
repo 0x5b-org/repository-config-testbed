@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@octokit/auth-app": "^7.1.5",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash.product": "^18.10.0",
     "octokit": "^4.1.2",
     "unzipper": "^0.12.3",
